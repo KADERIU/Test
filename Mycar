@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apprendre Git & GitHub</title>
+    <style>
+        /* Style général pour la page */
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Utiliser toute la hauteur de l'écran */
+            display: flex; /* Utilisation de Flexbox pour centrer le texte */
+            justify-content: center; /* Centre horizontalement */
+            align-items: center; /* Centre verticalement */
+            background-color: black; /* Couleur de fond noire */
+            color: white; /* Couleur du texte blanche */
+            font-family: Arial, sans-serif; /* Police d'écriture */
+            font-size: 2em; /* Taille du texte */
+        }
+    </style>
+</head>
+<body>
+    Bonjour salem
+</body>
+</html>
